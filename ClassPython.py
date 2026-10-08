@@ -33,6 +33,5 @@ r = Rectangle(p, l)
 print("\nHasil:")
 print(r)
 print("Keliling:", r.keliling(), "cm")
+print("Luas:", r.luas(), "cm²")
 
-
-# Program selesai
