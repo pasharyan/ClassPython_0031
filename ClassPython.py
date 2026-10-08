@@ -32,3 +32,7 @@ r = Rectangle(p, l)
 # Memanggil semua fungsi
 print("\nHasil:")
 print(r)
+print("Keliling:", r.keliling(), "cm")
+
+
+# Program selesai
